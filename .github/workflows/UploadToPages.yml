@@ -13,11 +13,11 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - name: Installing dependencies
+    - name: Installing dependencies 💾
       run: |
         npm install
     
-    - name: Building site
+    - name: Building site 🛠
       run: |        
         npm run build
         
@@ -33,3 +33,4 @@ jobs:
         REPOSITORY_NAME : fozzy056/fozzy056.github.io
         BRANCH: master
         FOLDER: dist
+        COMMIT_MESSAGE: Update 🎉
