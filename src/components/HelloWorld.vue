@@ -1,14 +1,9 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <p>
-      Testing CI
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
-    </p>
     <h3>Tests</h3>
 <a class="waves-effect waves-light btn">button</a>
 <a class="waves-effect waves-light btn"><i class="material-icons left">cloud</i>button</a>
-<a class="waves-effect waves-light btn"><i class="material-icons right">cloud</i>button</a>
     <p>
       <label>
         <input type="checkbox" checked="checked" />
