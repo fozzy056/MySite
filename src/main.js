@@ -1,5 +1,10 @@
 import Vue from 'vue'
 import App from './App.vue'
+import 'materialize-css'
+import 'materialize-css/dist/css/materialize.css'
+import Carousel3d from 'vue-carousel-3d';
+
+Vue.use(Carousel3d);
 
 Vue.config.productionTip = false
 
