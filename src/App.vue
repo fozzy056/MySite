@@ -7,6 +7,7 @@
     <router-link to="/">Accueil</router-link> |
     <router-link to="/about">A propos</router-link> |
     <router-link to="/pagedetest">Test</router-link>
+
   </div>
   <router-view/>
 
@@ -19,11 +20,11 @@
 import Footer from "./components/Footer.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     Footer
   }
-}
+};
 </script>
 
 <style lang="scss">
