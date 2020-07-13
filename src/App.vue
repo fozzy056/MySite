@@ -1,17 +1,27 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Est ce que c'est bô ?"/>
+
+  <!-- <Footer msg="Est ce que c'est bô ?" /> -->
+
+  <div id="nav">
+    <router-link to="/">Accueil</router-link> |
+    <router-link to="/about">A propos</router-link> |
+    <router-link to="/pagedetest">Test</router-link>
   </div>
+  <router-view/>
+
+<Footer />
+
+</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Footer from "./components/Footer.vue";
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Footer
   }
 }
 </script>
