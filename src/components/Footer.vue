@@ -20,7 +20,7 @@
             <div class="row">
               <i class="material-icons small">location_on</i>
             </div>
-            <div class="row">25 Trévelo 56130 Péaule France</div>
+            <div class="row">29 Boulevard Victor Hugo, Nantes</div>
           </div>
         </div>
       </div>
