@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="footer">
     <h1>{{ msg }}</h1>
     <footer class="page-footer blue lighten-1">
       <div class="container">
