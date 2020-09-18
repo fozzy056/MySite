@@ -1,12 +1,12 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <h2>Hello</h2>
-    <h3>World</h3>
-    <h3>Site</h3>
-    <h3>en cours</h3>
-    <h3>de fabrication</h3>
-    <h3>!!!</h3>
+    <p>Je suis étudiant en informatique<p>
+    <p>Et en alternance chez BNP Paribas</p>
+    <p>Ce site est en cours de fabrication</p>
+    <p>En attendant n'hésitez pas a consulter mon profil LinkedIn</p>
+    <a class="btn btn-primary blue lighten-1" role="button" href="https://www.linkedin.com/in/charles-landru/" target="_blank">Mon LinkedIn</a>
+    <p>Bonne navigation 😉</p>
   </div>
   
 </template>
@@ -34,6 +34,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #dde9e4;
 }
 </style>

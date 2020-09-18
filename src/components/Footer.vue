@@ -28,10 +28,6 @@
         <div class="container center">
           <i id="contact_icon" class="material-icons tiny">copyright</i> 2020 Charles Landru - Toute
           réutilisation à but commercial est interdite.
-          <a
-            class="grey-text text-lighten-4 right"
-            href="#!"
-          ></a>
         </div>
       </div>
     </footer>

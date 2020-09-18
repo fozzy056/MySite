@@ -3,19 +3,19 @@
       <h1>Page de test</h1>
             <carousel-3d>
     <slide :index="0">
-      <img alt="Vue logod" src="https://cloud.leparking.fr/2019/09/25/00/19/seat-ibiza-ibiza-6l-fr-1-8t-20vt-150cv_7119317655.jpg" />
+      <img alt="Ibiza 1" src="https://cloud.leparking.fr/2019/09/25/00/19/seat-ibiza-ibiza-6l-fr-1-8t-20vt-150cv_7119317655.jpg" />
     </slide>
     <slide :index="1">
-      <img alt="Vue logoz" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4V8PdD80GGg0_vFh8xIWsrGqHEFJ8MqsGZSAnpkAtIf-1JY&s" />
+      <img alt="Ibiza 2" src="https://aws-cf.caradisiac.com/prod/mesimages/225467/Ma%20voiture5.JPG" />
     </slide>
     <slide :index="2">
-      <img alt="Vue logo" src="https://bnperfshop.com/wp-content/uploads/2019/09/SEAT-IBIZA-00.jpg" />
+      <img alt="Ibiza 3" src="https://bnperfshop.com/wp-content/uploads/2019/09/SEAT-IBIZA-00.jpg" />
     </slide>
     <slide :index="3">
-      <img alt="Vue logog" src="https://i.ebayimg.com/images/g/a~4AAOSwljFeUA1W/s-l400.jpg" />
+      <img alt="Ibiza 4" src="https://i.ebayimg.com/images/g/a~4AAOSwljFeUA1W/s-l400.jpg" />
     </slide>
     <slide :index="4">
-      <img alt="Vue logog" src="https://cloud.leparking.fr/2019/08/24/12/44/seat-ibiza-seat-ibiza-6l-1-4l-dab-special-jaune_7041994038.jpg" />
+      <img alt="Ibiza 5" src="https://images.caradisiac.com/photo/0/1/6/4/20164/S0-IBIZA-CUPRA-FILE-photo16512-20164.jpg" />
     </slide>
   </carousel-3d>
 
